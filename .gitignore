@@ -1,0 +1,8 @@
+*.pdf
+*.dbf
+*.prj
+*.qpj
+*.shp
+*.shx
+*.xlsx
+/output/*
